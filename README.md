@@ -46,5 +46,5 @@ pip install pygame
 Open terminal and enter
 
 ```bash
-python main.py
+python3 main.py
 ```
